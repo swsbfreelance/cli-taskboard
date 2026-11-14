@@ -11,7 +11,7 @@ A small command-line task manager built during week 1 of an AI-Engineering learn
 
 ## install
 ```bash \ cmd
-git clone 
+git clone https://github.com/swsbfreelance/cli-taskboard
 cd ai-journey
 python -m venv .venv
 [bash] - source .venv/bin/activate
