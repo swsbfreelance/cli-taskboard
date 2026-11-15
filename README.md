@@ -17,3 +17,8 @@ python -m venv .venv
 [bash] - source .venv/bin/activate
 [cmd] - .venv/scripts/activate
 pip install -r requirements.txt
+
+## Tests
+
+pip install pytest
+pytest cli-taskboard/test_task.py
